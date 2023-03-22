@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.proyectofinalhotel">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logotipo_app"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ProyectoFinalHotel">
+        <activity android:name=".RegistroLimpiezaAdmin"
+            android:screenOrientation="portrait"></activity>
+        <activity android:name=".MainActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".CambioLimpiador"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".ModificarDatos"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".CrearEmpleado"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".PersonalGeneral"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".BajaEmpleado"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".ReservarHabitacion"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".InformacionClientes"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Limpiar"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".RegistrosLimpieza"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".DarDeBajaClientes"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".RellenarClientes"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".InformacionClientesAnadidos"
+            android:screenOrientation="portrait"/>
+    </application>
+
+</manifest>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Perfil"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="@string/menu_perfil" />
+    <item
+        android:id="@+id/infoClientes"
+        android:icon="@drawable/ic_baseline_list_alt_24"
+        android:title="@string/menu_infoClientes" />
+    <item
+        android:id="@+id/nuevoCliente"
+        android:icon="@drawable/ic_baseline_group_add_24"
+        android:title="@string/menu_reservarHabitacion" />
+    <item
+        android:id="@+id/bajaClientes"
+        android:icon="@drawable/ic_baseline_person_remove_24"
+        android:title="@string/menu_darBajaCliente" />
+    <item
+        android:id="@+id/registroLimpieza"
+        android:icon="@drawable/ic_baseline_list_alt_24"
+        android:title="@string/menu_registrosLimpieza" />
+    <item
+        android:id="@+id/pendienteLimpieza"
+        android:icon="@drawable/ic_baseline_cleaning_services_24"
+        android:title="@string/menu_pendiente" />
+    <item
+        android:id="@+id/limpiezaActual"
+        android:icon="@drawable/ic_baseline_cleaning_services_24"
+        android:title="@string/menu_limpiando" />
+    <item
+        android:id="@+id/aniadirPersonal"
+        android:icon="@drawable/ic_baseline_group_add_24"
+        android:title="@string/menu_anadirPersonal" />
+    <item
+        android:id="@+id/cambiarLimpiador"
+        android:icon="@drawable/cambio"
+        android:title="@string/menu_cambioLimpiadores" />
+    <item
+        android:id="@+id/cambiaPendiente"
+        android:icon="@drawable/ic_baseline_cleaning_services_24"
+        android:title="@string/menu_cambiarPendiente" />
+    <item
+        android:id="@+id/cerrarSesion"
+        android:icon="@drawable/ic_baseline_logout_24"
+        android:title="@string/menu_cerrarSesion" />
+    <item
+        android:id="@+id/salirApp"
+        android:icon="@drawable/ic_baseline_power_settings_new_24"
+        android:title="@string/menu_salir" />
+
+
+</menu>

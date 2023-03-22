@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">ProyectoFinalHotel</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_abrir">abrir drawer</string>
+    <string name="drawer_cerrar">cerrar drawer</string>
+
+    <!--Textos-->
+    <string name="num_habitacion">Nº Hab</string>
+    <string name="num_planta">Nº Planta</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="introducirHabitacion">Introduce la habitacion</string>
+    <string name="dni">DNI/NIE</string>
+    <string name="estado">Estado</string>
+    <string name="telefono">Telefono</string>
+    <string name="fecha_entrada">Fecha entrada</string>
+    <string name="fecha_salida">Fecha Salida</string>
+    <string name="numero_Habitacion">Nº Habitacion</string>
+    <string name="num_personas">Nº Personas</string>
+    <string name="contrasenia">Contraseña</string>
+    <string name="introduceDni">Introduce el DNI/NIE</string>
+    <string name="introduceContrasenia">Introduce la contraseña</string>
+    <string name="puesto">Puesto</string>
+    <string name="cambio">Cambio:</string>
+
+    <!--Titulos-->
+    <string name="titulo_menu">Gestion de Hotel</string>
+    <string name="titulo_darBajaCliente">Dar de baja</string>
+    <string name="titulo_infoClientes">Informacion clientes</string>
+    <string name="titulo_infoClientesAnadidos">Clientes añadidos</string>
+    <string name="titulo_limpiar">Estados Limpieza</string>
+    <string name="titulo_registrosLimpieza">Registros limpieza</string>
+    <string name="titulo_rellenarClientes">Rellenar datos</string>
+    <string name="titulo_reservarHabitacion">Reservar habitacion</string>
+    <string name="titulo_modificarDatos">Modificar datos</string>
+    <string name="titulo_bajaEmpleado">Baja empleado</string>
+    <string name="titulo_cambioLimpiador">Cambio limpiador</string>
+    <string name="titulo_crearEmpleado">Alta empleado</string>
+    <string name="titulo_personalGeneral">Datos administrador</string>
+
+
+    <!--Botones-->
+    <string name="darBaja">Dar de Baja</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="completar">Completar</string>
+    <string name="estado_limpiando">Limpiando</string>
+    <string name="estado_limpio">Limpia</string>
+    <string name="anadirCliente">Añadir cliente</string>
+    <string name="acceder">Acceder</string>
+    <string name="volver">Volver</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cambiar">Cambiar</string>
+    <string name="terminar">Terminar</string>
+    <string name="modificar">Modificar</string>
+
+    <!--Spinner-->
+    <string name="spinner_todos">Todos</string>
+    <string name="spinner_limpiadoress">Limpiadores</string>
+    <string name="spinner_personal">Personal</string>
+    <string name="spinner_inactivos">Inactivos</string>
+
+
+    <!--Menu-->
+    <string name="menu_darBajaCliente">Eliminar clientes</string>
+    <string name="menu_infoClientes">Informacion de los clientes</string>
+    <string name="menu_registrosLimpieza">Registros de limpieza</string>
+    <string name="menu_reservarHabitacion">Añadir clientes</string>
+    <string name="menu_cambiarPendiente">Cambiar a pendiente</string>
+    <string name="menu_limpiando">Limpiando</string>
+    <string name="menu_pendiente">Pendiente de limpieza</string>
+    <string name="menu_perfil">Perfil</string>
+    <string name="menu_cerrarSesion">Cerrar sesión</string>
+    <string name="menu_salir">Salir</string>
+    <string name="menu_anadirPersonal">Añadir personal</string>
+    <string name="menu_cambioLimpiadores">Cambio de limpiadores</string>
+
+</resources>
